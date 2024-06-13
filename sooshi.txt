@@ -1,0 +1,27 @@
+title:Sooshi's Personal Rolls
+description:Stolen from voltron's Wishlist
+
+@title:Episode 103 - BRAVE weapons part 2
+@description:Second six Season 23 BRAVE arsenal weapons with the Indomitability origin trait
+
+// Midnight Coup
+dimwishlist:item=2499720827&perks=3661387068,3230963543,3038247973,2109543898
+dimwishlist:item=2499720827&perks=839105230,3230963543,3824105627,4104185692
+
+// Blast Furnace
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4049631843
+
+// Hung Jury
+dimwishlist:item=205225492&perks=3250034553,3142289711,3891536761,3824105627
+
+// Lodbrok-C
+dimwishlist:item=2328531378&perks=3661387068,679225683,3523296417,365154968
+
+// Unending Tempest
+dimwishlist:item=2510526114&perks=1482024992,3177308360,2450788523,365154968,2509860981
+
+// Retold Tale
+dimwishlist:item=871900124&perks=1482024992,679225683,706527188,957782887
+
+// Crux Termination
+dimwishlist:item=1719687748&perks=3525010810,1996142143,1523832109,1439600632
