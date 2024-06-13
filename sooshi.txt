@@ -1,8 +1,7 @@
 title:Sooshi's Personal Rolls
 description:Stolen from voltron's Wishlist
 
-@title:Episode 103 - BRAVE weapons part 2
-@description:Second six Season 23 BRAVE arsenal weapons with the Indomitability origin trait
+@title:Brave Weapons
 
 // Midnight Coup
 dimwishlist:item=2499720827&perks=3661387068,3230963543,3038247973,2109543898
